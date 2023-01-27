@@ -1,0 +1,1835 @@
+%!Adobe-FontList 1.19
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AnthemisPersonalUseOnly
+FamilyName:Anthemis Personal Use Only
+StyleName:Regular
+FullName:Anthemis Personal Use Only
+MenuName:Anthemis Personal Use Only
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Anthemis Personal Use Only_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30016
+FileModTime:1537432434
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Anthemis Personal Use Only
+NameArray:0,Mac,4,Anthemis Personal Use Only
+NameArray:0,Win,1,Anthemis Personal Use Only
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BebasNeue-Regular
+FamilyName:Bebas Neue
+StyleName:Regular
+FullName:Bebas Neue Regular
+MenuName:Bebas Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\BebasNeue-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:42200
+FileModTime:1517940288
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bebas Neue Regular
+NameArray:0,Win,1,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BebasNeue-Regular
+FamilyName:Bebas Neue
+StyleName:Regular
+FullName:Bebas Neue Regular
+MenuName:Bebas Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\BebasNeue-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60576
+FileModTime:1517941656
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bebas Neue Regular
+NameArray:0,Win,1,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Bebas
+FamilyName:Bebas
+StyleName:Regular
+FullName:Bebas
+MenuName:Bebas
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\BEBAS___.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36796
+FileModTime:1541101370
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bebas
+NameArray:0,Win,1,Bebas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CafeNeroM54
+FamilyName:Cafe Nero M54
+StyleName:Regular
+FullName:Cafe Nero M54
+MenuName:Cafe Nero M54
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Cafe Nero M54.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:8296
+FileModTime:1297066178
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cafe Nero M54
+NameArray:0,Win,1,Cafe Nero M54
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CaviarDreams
+FamilyName:Caviar Dreams
+StyleName:Regular
+FullName:Caviar Dreams
+MenuName:Caviar Dreams
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\CaviarDreams.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58864
+FileModTime:1541102132
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Caviar Dreams
+NameArray:0,Win,1,Caviar Dreams
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CaviarDreams-BoldItalic
+FamilyName:Caviar Dreams
+StyleName:Bold Italic
+FullName:Caviar Dreams Bold Italic
+MenuName:Caviar Dreams
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\CaviarDreams_BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76448
+FileModTime:1541102132
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Caviar Dreams Bold Italic
+NameArray:0,Win,1,Caviar Dreams
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CaviarDreams-Italic
+FamilyName:Caviar Dreams
+StyleName:Italic
+FullName:Caviar Dreams Italic
+MenuName:Caviar Dreams
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\CaviarDreams_Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73056
+FileModTime:1541102132
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Caviar Dreams Italic
+NameArray:0,Win,1,Caviar Dreams
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CaviarDreams-Bold
+FamilyName:Caviar Dreams
+StyleName:Bold
+FullName:Caviar Dreams Bold
+MenuName:Caviar Dreams
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Caviar_Dreams_Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55988
+FileModTime:1541102132
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Caviar Dreams Bold
+NameArray:0,Win,1,Caviar Dreams
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CGFLocustResistance
+FamilyName:CGF Locust Resistance
+StyleName:Regular
+FullName:CGF Locust Resistance
+MenuName:CGF Locust Resistance
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\CGF Locust Resistance.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:185908
+FileModTime:1229137040
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,CGF Locust Resistance
+NameArray:0,Win,1,CGF Locust Resistance
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ChapazaItalic-Italic
+FamilyName:Chapaza Italic
+StyleName:Italic
+FullName:Chapaza Italic
+MenuName:Chapaza Italic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Chapaza Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:112716
+FileModTime:1413357362
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Chapaza Italic
+NameArray:0,Win,1,Chapaza Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Chapaza-Regular
+FamilyName:Chapaza
+StyleName:Regular
+FullName:Chapaza Regular
+MenuName:Chapaza
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Chapaza.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92908
+FileModTime:1405157680
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Chapaza Regular
+NameArray:0,Win,1,Chapaza
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ChunkFiveEx
+FamilyName:ChunkFive Ex
+StyleName:Regular
+FullName:ChunkFiveEx
+MenuName:ChunkFive Ex
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Chunkfive Ex.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:457984
+FileModTime:1361278074
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,ChunkFive Ex
+NameArray:0,Mac,4,ChunkFive Ex
+NameArray:0,Win,1,ChunkFive Ex
+NameArray:0,Win,16,ChunkFive Ex
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CongratulationsDEMO
+FamilyName:Congratulations DEMO
+StyleName:Regular
+FullName:Congratulations DEMO
+MenuName:Congratulations DEMO
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Congratulations_DEMO.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:38924
+FileModTime:1490280880
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Congratulations DEMO
+NameArray:0,Win,1,Congratulations DEMO
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DKBrushCrush
+FamilyName:DK Brush Crush
+StyleName:Regular
+FullName:DK Brush Crush
+MenuName:DK Brush Crush
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\DK Brush Crush.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:99016
+FileModTime:1466845804
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,DK Brush Crush
+NameArray:0,Win,1,DK Brush Crush
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-Black
+FamilyName:Exo 2
+StyleName:Black
+FullName:Exo 2 Black
+MenuName:Exo 2 Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65076
+FileModTime:1396851322
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2 Black
+NameArray:0,Win,1,Exo 2 Black
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-BlackItalic
+FamilyName:Exo 2
+StyleName:Black Italic
+FullName:Exo 2 Black Italic
+MenuName:Exo 2 Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65784
+FileModTime:1396851574
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Exo 2 Black Italic
+NameArray:0,Win,1,Exo 2 Black
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-Bold
+FamilyName:Exo 2
+StyleName:Bold
+FullName:Exo 2 Bold
+MenuName:Exo 2
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68652
+FileModTime:1396851300
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2 Bold
+NameArray:0,Win,1,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-BoldItalic
+FamilyName:Exo 2
+StyleName:Bold Italic
+FullName:Exo 2 Bold Italic
+MenuName:Exo 2
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70628
+FileModTime:1396851556
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Exo 2 Bold Italic
+NameArray:0,Win,1,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-ExtraBold
+FamilyName:Exo 2
+StyleName:Extra Bold
+FullName:Exo 2 Extra Bold
+MenuName:Exo 2 Extra Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69040
+FileModTime:1396851302
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2 Extra Bold
+NameArray:0,Win,1,Exo 2 Extra Bold
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-ExtraBoldItalic
+FamilyName:Exo 2
+StyleName:Extra Bold Italic
+FullName:Exo 2 Extra Bold Italic
+MenuName:Exo 2 Extra Bold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-ExtraBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71172
+FileModTime:1396851556
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Exo 2 Extra Bold Italic
+NameArray:0,Win,1,Exo 2 Extra Bold
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-ExtraLight
+FamilyName:Exo 2
+StyleName:Extra Light
+FullName:Exo 2 Extra Light
+MenuName:Exo 2 Extra Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64996
+FileModTime:1396851184
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2 Extra Light
+NameArray:0,Win,1,Exo 2 Extra Light
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-ExtraLightItalic
+FamilyName:Exo 2
+StyleName:Extra Light Italic
+FullName:Exo 2 Extra Light Italic
+MenuName:Exo 2 Extra Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-ExtraLightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70012
+FileModTime:1396851438
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Exo 2 Extra Light Italic
+NameArray:0,Win,1,Exo 2 Extra Light
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-Italic
+FamilyName:Exo 2
+StyleName:Italic
+FullName:Exo 2 Italic
+MenuName:Exo 2
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70112
+FileModTime:1396851478
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Exo 2 Italic
+NameArray:0,Win,1,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-Light
+FamilyName:Exo 2
+StyleName:Light
+FullName:Exo 2 Light
+MenuName:Exo 2 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65156
+FileModTime:1396851220
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2 Light
+NameArray:0,Win,1,Exo 2 Light
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-LightItalic
+FamilyName:Exo 2
+StyleName:Light Italic
+FullName:Exo 2 Light Italic
+MenuName:Exo 2 Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69932
+FileModTime:1396851478
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Exo 2 Light Italic
+NameArray:0,Win,1,Exo 2 Light
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-Medium
+FamilyName:Exo 2
+StyleName:Medium
+FullName:Exo 2 Medium
+MenuName:Exo 2 Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65720
+FileModTime:1396851262
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2 Medium
+NameArray:0,Win,1,Exo 2 Medium
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-MediumItalic
+FamilyName:Exo 2
+StyleName:Medium Italic
+FullName:Exo 2 Medium Italic
+MenuName:Exo 2 Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70460
+FileModTime:1396851520
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Exo 2 Medium Italic
+NameArray:0,Win,1,Exo 2 Medium
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-Regular
+FamilyName:Exo 2
+StyleName:Regular
+FullName:Exo 2
+MenuName:Exo 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65552
+FileModTime:1396851220
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2
+NameArray:0,Win,1,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-SemiBold
+FamilyName:Exo 2
+StyleName:Semi Bold
+FullName:Exo 2 Semi Bold
+MenuName:Exo 2 Semi Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68732
+FileModTime:1396851262
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2 Semi Bold
+NameArray:0,Win,1,Exo 2 Semi Bold
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-SemiBoldItalic
+FamilyName:Exo 2
+StyleName:Semi Bold Italic
+FullName:Exo 2 Semi Bold Italic
+MenuName:Exo 2 Semi Bold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-SemiBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70384
+FileModTime:1396851520
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Exo 2 Semi Bold Italic
+NameArray:0,Win,1,Exo 2 Semi Bold
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-Thin
+FamilyName:Exo 2
+StyleName:Thin
+FullName:Exo 2 Thin
+MenuName:Exo 2 Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59212
+FileModTime:1396851182
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2 Thin
+NameArray:0,Win,1,Exo 2 Thin
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Exo2-ThinItalic
+FamilyName:Exo 2
+StyleName:Thin Italic
+FullName:Exo 2 Thin Italic
+MenuName:Exo 2 Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Exo2-ThinItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64668
+FileModTime:1396851438
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Exo 2 Thin Italic
+NameArray:0,Win,1,Exo 2 Thin
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FeedingaMoment
+FamilyName:Feeding a Moment
+StyleName:Regular
+FullName:Feeding a Moment
+MenuName:Feeding a Moment
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Feeding a Moment.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:17900
+FileModTime:1516864256
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Feeding a Moment
+NameArray:0,Win,1,Feeding a Moment
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Flat-it License.txt
+FileModTime:1541101370
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Fredokadingbats
+FamilyName:Fredoka dingbats
+StyleName:Regular
+FullName:Fredoka dingbats
+MenuName:Fredoka dingbats
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Fredoka dingbats.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:21128
+FileModTime:1539511034
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Fredoka dingbats
+NameArray:0,Win,1,Fredoka dingbats
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FredokaOne-Regular
+FamilyName:Fredoka One
+StyleName:Regular
+FullName:Fredoka One Regular
+MenuName:Fredoka One
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\FredokaOne-Regular.otf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50392
+FileModTime:1539511034
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Fredoka One Regular
+NameArray:0,Win,1,Fredoka One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Freeware License.txt
+FileModTime:1539511304
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GrandHotel-Regular
+FamilyName:Grand Hotel
+StyleName:Regular
+FullName:Grand Hotel
+MenuName:Grand Hotel
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\GrandHotel-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:48388
+FileModTime:1539511060
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Grand Hotel
+NameArray:0,Win,1,Grand Hotel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Jomhuria-Regular
+FamilyName:Jomhuria
+StyleName:Regular
+FullName:Jomhuria
+MenuName:Jomhuria
+StyleBits:0
+FamilyNameNative:Jomhuria
+StyleNameNative:Regular
+FullNameNative:Jomhuria Regular
+WritingScript:Arabic
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Jomhuria-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:171164
+FileModTime:1539511104
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Jomhuria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Lalezar-Regular
+FamilyName:Lalezar
+StyleName:Regular
+FullName:Lalezar
+MenuName:Lalezar
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lalezar-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:150308
+FileModTime:1539511124
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lalezar
+NameArray:0,Win,1,Lalezar
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Black
+FamilyName:Lato
+StyleName:Black
+FullName:Lato Black
+MenuName:Lato Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:614544
+FileModTime:1541544720
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Black
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-BlackItalic
+FamilyName:Lato
+StyleName:Black Italic
+FullName:Lato Black Italic
+MenuName:Lato Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:672480
+FileModTime:1541544720
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Black Italic
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+FullName:Lato Bold
+MenuName:Lato
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:657188
+FileModTime:1541544720
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Bold
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-BoldItalic
+FamilyName:Lato
+StyleName:Bold Italic
+FullName:Lato Bold Italic
+MenuName:Lato
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:699008
+FileModTime:1541544720
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Bold Italic
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Hairline
+FamilyName:Lato
+StyleName:Hairline
+FullName:Lato Hairline
+MenuName:Lato Hairline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Hairline.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:584784
+FileModTime:1541544720
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Hairline
+NameArray:0,Win,1,Lato Hairline
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-HairlineItalic
+FamilyName:Lato
+StyleName:Hairline Italic
+FullName:Lato Hairline Italic
+MenuName:Lato Hairline
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-HairlineItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:609436
+FileModTime:1541544720
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Hairline Italic
+NameArray:0,Win,1,Lato Hairline
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Heavy
+FamilyName:Lato
+StyleName:Heavy
+FullName:Lato Heavy
+MenuName:Lato Heavy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Heavy.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:665420
+FileModTime:1541544720
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Heavy
+NameArray:0,Win,1,Lato Heavy
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-HeavyItalic
+FamilyName:Lato
+StyleName:Heavy Italic
+FullName:Lato Heavy Italic
+MenuName:Lato Heavy
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-HeavyItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:698924
+FileModTime:1541544720
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Heavy Italic
+NameArray:0,Win,1,Lato Heavy
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Italic
+FamilyName:Lato
+StyleName:Italic
+FullName:Lato Italic
+MenuName:Lato
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:723544
+FileModTime:1541544720
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Italic
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Light
+FamilyName:Lato
+StyleName:Light
+FullName:Lato Light
+MenuName:Lato Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:644556
+FileModTime:1541544720
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Light
+NameArray:0,Win,1,Lato Light
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-LightItalic
+FamilyName:Lato
+StyleName:Light Italic
+FullName:Lato Light Italic
+MenuName:Lato Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:658212
+FileModTime:1541544720
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Light Italic
+NameArray:0,Win,1,Lato Light
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Medium
+FamilyName:Lato
+StyleName:Medium
+FullName:Lato Medium
+MenuName:Lato Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:637068
+FileModTime:1541544720
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Medium
+NameArray:0,Win,1,Lato Medium
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-MediumItalic
+FamilyName:Lato
+StyleName:Medium Italic
+FullName:Lato Medium Italic
+MenuName:Lato Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:695588
+FileModTime:1541544720
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Medium Italic
+NameArray:0,Win,1,Lato Medium
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+FullName:Lato Regular
+MenuName:Lato
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:657212
+FileModTime:1541544720
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Regular
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Semibold
+FamilyName:Lato
+StyleName:Semibold
+FullName:Lato Semibold
+MenuName:Lato Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:669228
+FileModTime:1541544720
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Semibold
+NameArray:0,Win,1,Lato Semibold
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-SemiboldItalic
+FamilyName:Lato
+StyleName:Semibold Italic
+FullName:Lato Semibold Italic
+MenuName:Lato Semibold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-SemiboldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:698028
+FileModTime:1541544720
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Semibold Italic
+NameArray:0,Win,1,Lato Semibold
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Thin
+FamilyName:Lato
+StyleName:Thin
+FullName:Lato Thin
+MenuName:Lato Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:627220
+FileModTime:1541544720
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Thin
+NameArray:0,Win,1,Lato Thin
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-ThinItalic
+FamilyName:Lato
+StyleName:Thin Italic
+FullName:Lato Thin Italic
+MenuName:Lato Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lato-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:654216
+FileModTime:1541544720
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Lato Thin Italic
+NameArray:0,Win,1,Lato Thin
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LeagueSpartan-Bold
+FamilyName:League Spartan
+StyleName:Bold
+FullName:League Spartan Bold
+MenuName:League Spartan
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\LeagueSpartan-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25296
+FileModTime:1539511132
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,League Spartan Bold
+NameArray:0,Win,1,League Spartan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\license.txt
+FileModTime:1490281370
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Lobster1.4
+FamilyName:Lobster 1.4
+StyleName:Regular
+FullName:Lobster 1.4
+MenuName:Lobster 1.4
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Lobster 1.4.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37632
+FileModTime:1278083350
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lobster 1.4
+NameArray:0,Win,1,Lobster 1.4
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Molot
+FamilyName:Molot
+StyleName:Regular
+FullName:Molot
+MenuName:Molot
+StyleBits:0
+FamilyNameNative:Molot
+StyleNameNative:Regular
+FullNameNative:Molot Regular
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Molot.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:11900
+FileModTime:1539511304
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Molot
+NameArray:0,Win,1,Molot
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:moon_get-Heavy
+FamilyName:MOON GET!
+StyleName:Heavy
+FullName:MOON GET! Heavy
+MenuName:MOON GET!
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\moon_get-Heavy.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49688
+FileModTime:1519607542
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,MOON GET! Heavy
+NameArray:0,Win,1,MOON GET!
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NautilusPompilius
+FamilyName:Nautilus Pompilius
+StyleName:Regular
+FullName:Nautilus Pompilius
+MenuName:Nautilus Pompilius
+StyleBits:0
+FamilyNameNative:Nautilus Pompilius
+StyleNameNative:Regular
+FullNameNative:Nautilus Pompilius Regular
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Nautilus.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61060
+FileModTime:1539511316
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nautilus Pompilius
+NameArray:0,Win,1,Nautilus Pompilius
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Neon80s
+FamilyName:Neon 80s
+StyleName:Regular
+FullName:Neon 80s
+MenuName:Neon 80s
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Neon.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89264
+FileModTime:1282660784
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Neon 80s
+NameArray:0,Win,1,Neon 80s
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Norwester-Regular
+FamilyName:Norwester
+StyleName:Regular
+FullName:Norwester
+MenuName:Norwester
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\norwester.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:11392
+FileModTime:1539511344
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Norwester
+NameArray:0,Win,1,Norwester
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Norwester-Regular
+FamilyName:Norwester
+StyleName:Regular
+FullName:Norwester
+MenuName:Norwester
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\norwester_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:11392
+FileModTime:1539511344
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Norwester
+NameArray:0,Win,1,Norwester
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Nymphont License.txt
+FileModTime:1541102132
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OleoScript-Bold
+FamilyName:Oleo Script
+StyleName:Bold
+FullName:Oleo Script Bold
+MenuName:Oleo Script
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\OleoScript-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34628
+FileModTime:1539511432
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oleo Script Bold
+NameArray:0,Win,1,Oleo Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OleoScript-Regular
+FamilyName:Oleo Script
+StyleName:Regular
+FullName:Oleo Script
+MenuName:Oleo Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\OleoScript-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34980
+FileModTime:1539511432
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Oleo Script
+NameArray:0,Win,1,Oleo Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pacifico
+FamilyName:Pacifico
+StyleName:Regular
+FullName:Pacifico
+MenuName:Pacifico
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Pacifico.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:75568
+FileModTime:1539511482
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Pacifico
+NameArray:0,Mac,4,Pacifico
+NameArray:0,Win,1,Pacifico
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RussoOne
+FamilyName:Russo One
+StyleName:Regular
+FullName:Russo One
+MenuName:Russo One
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Russo_One.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:190416
+FileModTime:1333344286
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Russo One
+NameArray:0,Mac,4,Russo One
+NameArray:0,Win,1,Russo One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SportsWorld
+FamilyName:Sports World
+StyleName:Regular
+FullName:Sports World
+MenuName:Sports World
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Sports World-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:112884
+FileModTime:1306122570
+WeightClass:400
+WidthClass:0
+AngleClass:0
+NameArray:0,Mac,4,Sports World
+NameArray:0,Win,1,Sports World
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SportsWorld
+FamilyName:Sports World
+StyleName:Regular
+FullName:Sports World
+MenuName:Sports World
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\Sports World-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:314744
+FileModTime:1306122236
+WeightClass:400
+WidthClass:0
+AngleClass:0
+NameArray:0,Mac,18,Sports World
+NameArray:0,Mac,4,Sports World
+NameArray:0,Win,1,Sports World
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TheBoldFont
+FamilyName:The Bold Font
+StyleName:Bold
+FullName:The Bold Font
+MenuName:The Bold Font
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\theboldfont.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:42968
+FileModTime:1433578316
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,The Bold Font
+NameArray:0,Win,1,The Bold Font
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Exotic350BT-DemiBold
+FamilyName:Exotc350 DmBd BT
+StyleName:Demi-Bold
+FullName:Exotc350 DmBd BT Demi-Bold
+MenuName:Exotc350 DmBd BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\tt0627m_.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40172
+FileModTime:1457132318
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exotc350 DmBd BT Demi-Bold
+NameArray:0,Win,1,Exotc350 DmBd BT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Exotic350BT-Bold
+FamilyName:Exotc350 Bd BT
+StyleName:Bold
+FullName:Exotc350 Bd BT Bold
+MenuName:Exotc350 Bd BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tttttttt\Desktop\PACK STORIES POWER POINT\Font\tt0628m_.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39436
+FileModTime:1457132318
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exotc350 Bd BT Bold
+NameArray:0,Win,1,Exotc350 Bd BT
+%EndFont
+
